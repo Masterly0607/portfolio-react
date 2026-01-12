@@ -11,7 +11,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__left">
           <div className="about__portrait">
-            <img src={AboutImage} alt="About Image" />
+            <img src={AboutImage} alt="About" />
           </div>
         </div>
         <div className="about__right">
@@ -27,11 +27,11 @@ const About = () => {
           </div>
 
           <p>
-            I am a final-year (Year 5) Software Engineering student at ITC with
-            hands-on experience in full-stack web development using Vue.js,
-            React.js (Next.js), Laravel, and Express.js. I have built responsive
-            web applications, integrated APIs, and worked with databases
-            including MySQL and MongoDB.
+            I am a fresh graduate in Software Engineering from the Institute of
+            Technology of Cambodia (ITC) with hands-on experience in full-stack
+            web development using Vue.js, React.js (Next.js), Spring, Laravel,
+            and Express.js. I have built responsive web applications, integrated
+            REST APIs, and worked with databases including MySQL and MongoDB.
           </p>
 
           <p>

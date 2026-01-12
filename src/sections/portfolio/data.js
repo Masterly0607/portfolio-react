@@ -22,24 +22,23 @@ const data = [
     demo: "https://mern-commerce-cj71.onrender.com/",
     github: "https://github.com/Masterly0607/mern-commerce",
   },
-
   {
     id: 3,
-    category: "backend",
+    category: "frontend",
     image: Image3,
+    title: "E-learning Platform",
+    desc: "Developed the frontend of an e-learning system using Vue.js and Quasar during an internship, contributing to frontend components and user interface enhancements.",
+    demo: "https://ibf-frontend.netlify.app/",
+    github: "https://github.com/Masterly0607/ibpf-framework",
+  },
+  {
+    id: 4,
+    category: "backend",
+    image: Image4,
     title: "Stock Management System",
     desc: "A web-based inventory management system built with Laravel, Filament, and MySQL, providing role-based access control and real-time stock tracking across branches.",
     demo: "",
     github: "https://github.com/Masterly0607/Stock-Management-System",
-  },
-  {
-    id: 4,
-    category: "frontend",
-    image: Image4,
-    title: "E-learning Platform",
-    desc: "An internal e-learning system frontend developed using Vue.js and Quasar, including responsive pages and custom video/audio components.",
-    demo: "",
-    github: "https://github.com/Masterly0607/ibpf-framework",
   },
 ];
 
