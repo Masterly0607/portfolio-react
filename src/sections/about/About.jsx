@@ -28,20 +28,20 @@ const About = () => {
 
           <p>
             I am a final-year (Year 5) Software Engineering student at ITC with
-            experience in full-stack web development using Vue.js, React.js
-            (Next.js), Laravel, and ExpressJS. I have built responsive web
-            applications, worked with APIs, and managed databases such as MySQL
-            and MongoDB.
+            hands-on experience in full-stack web development using Vue.js,
+            React.js (Next.js), Laravel, and Express.js. I have built responsive
+            web applications, integrated APIs, and worked with databases
+            including MySQL and MongoDB.
           </p>
 
           <p>
-            I previously worked as a Frontend Developer Intern at the Institute
-            of Banking and Finance for six months and as a Backend Developer
-            Intern at CyberLab (ITC) for three months. In addition, I have
-            developed several personal projects, including e-commerce and social
-            media web applications, using technologies such as React, Next.js,
-            and MongoDB. I am passionate about continuous learning and building
-            real-world, impactful applications.
+            I completed a six-month Frontend Developer Internship at the
+            Institute of Banking and Finance and a three-month Backend Developer
+            Internship at CyberLab (ITC). I have also developed multiple
+            personal projects, including e-commerce and video calling
+            applications, using React, Next.js, and MongoDB. I am passionate
+            about continuous learning and building real-world, impactful
+            applications.
           </p>
           <a href={CV} download className="btn primary">
             Download CV <HiDownload />
